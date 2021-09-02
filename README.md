@@ -10,9 +10,7 @@ Clone the repository using `git`, or download it by click `Code -> Download Zip`
 
 Welcome to the second week of the AML course!
 
-![welcome](https://media.giphy.com/media/OJqimXwqG7CQE/giphy.gif)
-
-This week, you will learn a few things about regression. Supervised Regression was simply called regression analysis before the AI gold rush. It is employed to estimate relationships among dependent and independent variables in data.
+This week, you will learn a few things about regression. Supervised Regression was simply called regression analysis before the AI gold rush. We use regression to study relationships among dependent and independent variables presented in data.
 
 When these regression models are used for predicting, the regression analysis is categorized as supervised machine learning.
 
