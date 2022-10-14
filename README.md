@@ -1,18 +1,16 @@
-# CS4305TU - Regression
+# Regression for data science
 
-This is a repository for CS4305TU Regression Lectures at TU Delft.
+This is a mini-course on regression, originally designed as part of the AI education program for TU Delft. I made it open for everyone who are insterested in learning *regression* in machine learning.
 
 Clone the repository using `git`, or download it by click `Code -> Download Zip` at the top of this repository page.
 
 ---
 
-## Welcome
+## Overview
 
-Welcome to the second week of the AML course!
+Generally, We use regression to study relationships among dependent and independent variables presented in the data. When these regression models are used for predicting unseen input, the approach is categorized as supervised machine learning.
 
-This week, you will learn a few things about regression. Generally, We use regression to study relationships among dependent and independent variables presented in the data. When these regression models are used for predicting unseen input, the approach is categorized as supervised machine learning.
-
-In this week's lecture, you will learn the following topics:
+In this mini-course, you will learn the following topics:
 
 - **Simple linear regression** (single input, single output, linear relationship, deterministic)
 - **Multiple linear regression** (multiple inputs, single output, linear relationship, deterministic)
@@ -27,12 +25,14 @@ In between these specific regression topics, there are a few regression-related 
 - **Bias variance trade-off** (why you model under-fits or over-fits?)
 - **Regularization** (how to mitigate the over-fitting problem?)
 
+
 ## Materials for the lecture
 
 The lectures are split into 11 short videos (edited to approximately 10 minutes on average). Feel free to use 1.25x or 1.5x speed to watch.
 Most topics are taught with the same dataset (about airplanes) that I have created for this lecture.
 
 Each course video is accompanied by a Python Jupyter notebook in this repository.
+
 
 ### List of videos 
 
@@ -48,16 +48,6 @@ Each course video is accompanied by a Python Jupyter notebook in this repository
 0. [Logistic regression](https://youtu.be/kWH4qtBQjfo)
 0. [Bayesian regression](https://youtu.be/_uwkQTIN9no)
 
-
---
-
-🖖
-
-Cheers,
-
-Dr. Junzi Sun
-
-Assistant Professor at Faculty of Aerospace Engineering
 
 
 
